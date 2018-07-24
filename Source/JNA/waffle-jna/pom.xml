@@ -18,11 +18,11 @@
     <parent>
         <groupId>com.github.waffle</groupId>
         <artifactId>waffle-parent</artifactId>
-        <version>1.8.4-SNAPSHOT</version>
+        <version>1.8.4-sess-disable-b1</version>
     </parent>
 
     <artifactId>waffle-jna</artifactId>
-    <version>1.8.4-SNAPSHOT</version>
+    <version>1.8.4-sess-disable-b1</version>
     <packaging>jar</packaging>
 
     <name>waffle-jna</name>
